@@ -8,5 +8,6 @@ namespace GitTest
 {
     internal class New
     {
+        //new
     }
 }
